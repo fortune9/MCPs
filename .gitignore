@@ -1,0 +1,11 @@
+# Environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Temporary files
+/home/ubuntu/.gemini/tmp/
